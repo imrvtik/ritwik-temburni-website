@@ -1,5 +1,19 @@
+body {
+  color: black:
+}
+
 h1 {
   font-family: sans-serif;
-  font-color: white;
-  align: center;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  color: orange;
+  text-align: center;
+}
+
+div {
+  margin: auto;
 }
